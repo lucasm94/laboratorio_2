@@ -51,9 +51,9 @@ namespace ValidadorRangos
                 }
             }
 
-            Console.WriteLine("El numero minimo ingresado es {0}", minimoAgregado);
-            Console.WriteLine("El numero maximo ingresado es {0}", maximoAgregado);
-            Console.WriteLine("El promedio es {0}", acumuladoValor/10);
+            Console.WriteLine($"El numero minimo ingresado es {minimoAgregado}");
+            Console.WriteLine($"El numero maximo ingresado es {maximoAgregado}");
+            Console.WriteLine($"El promedio es {acumuladoValor / acumNumerosIngresados}");
             Console.ReadLine();
         }
     }
