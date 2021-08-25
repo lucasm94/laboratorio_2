@@ -1,0 +1,10 @@
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\ValidadorRangos\bin\Debug\ValidadorRangos.exe.config
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\ValidadorRangos\bin\Debug\ValidadorRangos.exe
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\ValidadorRangos\bin\Debug\ValidadorRangos.pdb
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\ValidadorRangos\bin\Debug\Biblioteca.dll
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\ValidadorRangos\bin\Debug\Biblioteca.pdb
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\ValidadorRangos\obj\Debug\ValidadorRangos.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\ValidadorRangos\obj\Debug\ValidadorRangos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\ValidadorRangos\obj\Debug\ValidadorRangos.csproj.CopyComplete
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\ValidadorRangos\obj\Debug\ValidadorRangos.exe
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\ValidadorRangos\obj\Debug\ValidadorRangos.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\biblioteca\obj\Debug\biblioteca.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\biblioteca\obj\Debug\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\biblioteca\biblioteca\obj\Debug\Biblioteca.pdb
