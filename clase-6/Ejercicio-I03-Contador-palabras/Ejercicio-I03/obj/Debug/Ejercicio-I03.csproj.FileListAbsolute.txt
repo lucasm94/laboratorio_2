@@ -1,0 +1,10 @@
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\Ejercicio-I03\Ejercicio-I03\bin\Debug\Ejercicio-I03.exe.config
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\Ejercicio-I03\Ejercicio-I03\bin\Debug\Ejercicio-I03.exe
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\Ejercicio-I03\Ejercicio-I03\bin\Debug\Ejercicio-I03.pdb
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\Ejercicio-I03\Ejercicio-I03\obj\Debug\Ejercicio-I03.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\Ejercicio-I03\Ejercicio-I03\obj\Debug\Ejercicio_I03.ContadorForm.resources
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\Ejercicio-I03\Ejercicio-I03\obj\Debug\Ejercicio_I03.Properties.Resources.resources
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\Ejercicio-I03\Ejercicio-I03\obj\Debug\Ejercicio-I03.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\Ejercicio-I03\Ejercicio-I03\obj\Debug\Ejercicio-I03.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\Ejercicio-I03\Ejercicio-I03\obj\Debug\Ejercicio-I03.exe
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\Ejercicio-I03\Ejercicio-I03\obj\Debug\Ejercicio-I03.pdb
