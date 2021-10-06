@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\bin\Debug\net5.0\PuedeFallar.exe
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\bin\Debug\net5.0\PuedeFallar.deps.json
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\bin\Debug\net5.0\PuedeFallar.runtimeconfig.json
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\bin\Debug\net5.0\PuedeFallar.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\bin\Debug\net5.0\PuedeFallar.dll
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\bin\Debug\net5.0\ref\PuedeFallar.dll
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\bin\Debug\net5.0\PuedeFallar.pdb
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\obj\Debug\net5.0\PuedeFallar.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\obj\Debug\net5.0\PuedeFallar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\obj\Debug\net5.0\PuedeFallar.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\obj\Debug\net5.0\PuedeFallar.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\obj\Debug\net5.0\PuedeFallar.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\obj\Debug\net5.0\PuedeFallar.dll
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\obj\Debug\net5.0\ref\PuedeFallar.dll
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\obj\Debug\net5.0\PuedeFallar.pdb
+C:\Users\Lucas\Desktop\utn\labo-2\ejercicios\PuedeFallar\PuedeFallar\obj\Debug\net5.0\PuedeFallar.genruntimeconfig.cache

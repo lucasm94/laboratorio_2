@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PuedeFallar/1.0.0": {
+        "runtime": {
+          "PuedeFallar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PuedeFallar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
